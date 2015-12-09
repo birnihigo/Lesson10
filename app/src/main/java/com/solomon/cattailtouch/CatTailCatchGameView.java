@@ -131,4 +131,10 @@ public class CatTailCatchGameView extends SurfaceView
         cat=null;
         System.gc();
     }
+    public int getScore(){
+        return score;
+    }
+    public void setScore(int value){
+        score = value;
+    }
 }

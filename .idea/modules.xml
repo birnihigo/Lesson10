@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CatTailTouch.iml" filepath="$PROJECT_DIR$/CatTailTouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersistentCatTailTouch.iml" filepath="$PROJECT_DIR$/PersistentCatTailTouch.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
